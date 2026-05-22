@@ -1,0 +1,12 @@
+For this project the requirment are the libraries that u need are
+
+import cv2
+import pandas as pd
+import random
+import webbrowser 
+import time 
+
+Then you would also have to install deepface which is a face detection model 
+u need to run this coommand in terminal ->  pip install deepface opencv-python pandas
+
+Then all set  ('_')
