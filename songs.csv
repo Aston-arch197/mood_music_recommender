@@ -1,0 +1,42 @@
+mood,song,artist,spotify_link
+angry,Believer,Imagine Dragons,https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP?si=946232e053ff4e77
+angry,Enemy,Imagine Dragons,https://open.spotify.com/track/5X3T8jHNIJSXviiDmiBdz0?si=0518b93f15a14115
+angry,Stronger,Kanye West,https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf?si=fbfaa249396e4315
+angry,Thunder,Imagine Dragons,https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB?si=bccb0ae5088448ee
+angry,Remember The Name,Fort Minor,https://open.spotify.com/track/6dWWOi8PvMJPOl60TwQxKP?si=cb5ea90c7f4343ae
+
+fear,Weightless,Marconi Union,https://open.spotify.com/track/6kkwzB6hXLIONkEk9JciA6?si=024ac648687b47cf
+fear,River Flows In You,Yiruma,https://open.spotify.com/track/2agBDIr9MYDUducQPC1sFU?si=3074f973d04f4797
+fear,Experience,Ludovico Einaudi,https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj?si=b471b11fbf9e46eb
+fear,Bloom,The Paper Kites,https://open.spotify.com/track/3kqJoxcfnut0fqAcd9rbA4?si=46a1d56f9bc64aea
+fear,Night Changes,One Direction,https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ?si=90fb1ed2e59f4e25
+
+neutral,Perfect,Ed Sheeran,https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v?si=cbf6ad1de7a742e6
+neutral,Photograph,Ed Sheeran,https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL?si=150c688e8b3a4275
+neutral,Sunflower,Post Malone,https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P?si=3a64b6dc487741cb
+neutral,Yellow,Coldplay,https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg?si=7f8a13bb76b74141
+neutral,Ocean Eyes,Billie Eilish,https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9?si=6a1e4c3feb754acd
+
+sad,Let Her Go,Passenger,https://open.spotify.com/track/2pUpNOgJBIBCcjyQZQ00qU?si=eedad7bc060d4cd7
+sad,Someone You Loved,Lewis Capaldi,https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf?si=e0dd30d6d4cb4486
+sad,Fix You,Coldplay,https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q?si=6e1e644a690d4d58
+sad,Another love,Tom odelle,https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO?si=bfebb189e2784341
+sad,Before You Go,Lewis Capaldi,https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP?si=6c20bbd232a949cd
+
+disgust,lovely,Billie Eilish,https://open.spotify.com/track/7b4eqsDeLUzSrGth8uB2D1?si=cdd1b342beb1487e
+disgust,Heat Waves,Glass Animals,https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp?si=dd7abe263d7e441d
+disgust,Sweater Weather,The Neighbourhood,https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6?si=686560e69cc2469a
+disgust,505,Arctic Monkeys,https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp?si=aaf795ba587e4956
+disgust,Until I Found You,Stephen Sanchez,https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV?si=bf8a64a820034f75
+
+happy,Blinding Lights,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b?si=a2b41747d4e34b4a
+happy,Shape of You,Ed Sheeran,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3?si=c9a25376a0cb4afd
+happy,Counting Stars,OneRepublic,https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1?si=d3788eff2ec44232
+happy,Happy,Pharrell Williams,https://open.spotify.com/track/0cx3DUvLuL7iTJ6aUzAZNx?si=988fedbecf0b4ad3
+happy,Can’t Stop The Feeling,Justin Timberlake,https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc?si=17fac87e8851444b
+
+surprise,Uptown Funk,Bruno Mars,https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS?si=84c9cab2aae54d35
+surprise,Dynamite,BTS,https://open.spotify.com/track/72IwoG8tqvIWV10IHjpNNA?si=81e0c1d13ccd4a0f
+surprise,Party Rock Anthem,LMFAO,https://open.spotify.com/track/7mitXLIMCflkhZiD34uEQI?si=d3ef6a18bafe4545
+surprise,Levitating,Dua Lipa,https://open.spotify.com/track/0Q9iuRjsnVVnnYp6XeyUjx?si=b150d05e46a24ea2
+surprise,Stay,The Kid LAROI,https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20?si=a5fd74804b424f32
